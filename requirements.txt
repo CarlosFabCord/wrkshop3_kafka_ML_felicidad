@@ -1,0 +1,11 @@
+confluent-kafka>=2.16.1
+pandas
+sqlalchemy>=2.0.0
+psycopg2-binary
+scikit-learn
+joblib
+certifi
+matplotlib
+seaborn
+ydata-profiling
+apache-airflow==2.11.2
