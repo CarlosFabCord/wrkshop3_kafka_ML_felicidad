@@ -1,5 +1,6 @@
 confluent-kafka>=2.16.1
 pandas
+numpy
 sqlalchemy>=2.0.0
 psycopg2-binary
 scikit-learn
